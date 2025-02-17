@@ -1,6 +1,5 @@
 # 忽略 Visual Studio 相关文件
 .vs/
-*.sln
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
